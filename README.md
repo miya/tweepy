@@ -9,16 +9,12 @@ Tweepy: Twitter for Python!
 
 Installation
 ------------
-The easiest way to install the latest version
-is by using pip/easy_install to pull it from PyPI:
-
-    pip install tweepy
-
-You may also use Git to clone the repository from
+The easiest way to install this fork version
+is use Git to clone the repository from
 Github and install it manually:
 
-    git clone https://github.com/tweepy/tweepy.git
+    git clone https://github.com/braian87b/tweepy.git
     cd tweepy
     python setup.py install
 
-Python 2.6 and 2.7, 3.3, 3.4, 3.5 & 3.6 are supported.
+Python 2.6 and 2.7, 3.3, 3.4, 3.5 & 3.6 are supported, and probably newer versions also.
