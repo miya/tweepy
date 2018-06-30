@@ -12,6 +12,6 @@ Installation
 The easiest way to install this fork version
 is to use pip
 
-    pip install git+//github.com/spyder-exe/tweepy.git
-
+    pip install git+https://github.com/Spyder-exe/tweepy.git
+    
 Python 2.6 and 2.7, 3.3, 3.4, 3.5 & 3.6 are supported, and probably newer versions also.
